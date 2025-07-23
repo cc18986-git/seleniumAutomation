@@ -12,6 +12,9 @@ public class TestAndDelete {
 		System.out.println(car2);
 		System.out.println("Pushing to Github1");
 		System.out.println("Pushing to Github2");
+		
+		System.out.println("develop1");
+		System.out.println("develop2");
 
 	}
 
