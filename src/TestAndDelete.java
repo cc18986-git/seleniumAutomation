@@ -10,6 +10,8 @@ public class TestAndDelete {
 		System.out.println(car1);
 		String car2=cars.stream().iterator().next();
 		System.out.println(car2);
+		System.out.println("Pushing to Github1");
+		System.out.println("Pushing to Github2");
 
 	}
 
